@@ -1,0 +1,297 @@
+﻿,pval,diffs,ko,n_tax,rejects,KEGG annotation
+1,0,0.745098039,K00239,18,reject,"ko:K00239    sdhA, frdA; succinate dehydrogenase / fumarate reductase, flavoprotein subunit [EC:1.3.5.1 1.3.5.4]"
+2,0,0.65,K03798,16,reject,"ko:K03798    ftsH, hflB; cell division protease FtsH [EC:3.4.24.-]"
+3,0,0.538461538,K02703,14,reject,ko:K02703    psbA; photosystem II P680 reaction center D1 protein [EC:1.10.3.9]
+4,0,0.538461538,K02274,13,reject,"ko:K02274    coxA, ctaD; cytochrome c oxidase subunit I [EC:1.9.3.1]"
+5,0,0.538461538,K04043,13,reject,"ko:K04043    dnaK, HSPA9; molecular chaperone DnaK"
+6,0,0.363636364,K01902,11,reject,ko:K01902    sucD; succinyl-CoA synthetase alpha subunit [EC:6.2.1.5]
+7,0,0.327272727,K02935,11,reject,"ko:K02935    RP-L7, MRPL12, rplL; large subunit ribosomal protein L7/L12"
+8,0,0,K01899,8,reject,ko:K01899    LSC1; succinyl-CoA synthetase alpha subunit [EC:6.2.1.4 6.2.1.5]
+9,0,0,K07374,8,reject,ko:K07374    TUBA; tubulin alpha
+10,0,0,K11251,8,reject,ko:K11251    H2A; histone H2A
+11,1.00E-04,0.545454545,K02706,12,reject,ko:K02706    psbD; photosystem II P680 reaction center D2 protein [EC:1.10.3.9]
+12,1.00E-04,0.222222222,K01682,9,reject,ko:K01682    acnB; aconitate hydratase 2 / 2-methylisocitrate dehydratase [EC:4.2.1.3 4.2.1.99]
+13,1.00E-04,0.25,K00958,8,reject,"ko:K00958    sat, met3; sulfate adenylyltransferase [EC:2.7.7.4]"
+14,1.00E-04,0.25,K02183,8,reject,ko:K02183    CALM; calmodulin
+15,1.00E-04,0,K00855,7,reject,"ko:K00855    PRK, prkB; phosphoribulokinase [EC:2.7.1.19]"
+16,1.00E-04,0,K10389,7,reject,ko:K10389    TUBG; tubulin gamma
+17,3.00E-04,0,K11254,6,reject,ko:K11254    H4; histone H4
+18,5.00E-04,0.444444444,K00927,9,reject,"ko:K00927    PGK, pgk; phosphoglycerate kinase [EC:2.7.2.3]"
+19,6.00E-04,0,K00325,6,reject,ko:K00325    pntB; H+-translocating NAD(P) transhydrogenase subunit beta [EC:1.6.1.2 7.1.1.1]
+20,9.00E-04,0.285714286,K02115,7,reject,"ko:K02115    ATPF1G, atpG; F-type H+-transporting ATPase subunit gamma"
+21,0.0012,0.285714286,K00031,7,reject,"ko:K00031    IDH1, IDH2, icd; isocitrate dehydrogenase [EC:1.1.1.42]"
+22,0.0014,0,K08057,5,reject,ko:K08057    CALR; calreticulin
+23,0.0015,0.555555556,K01602,9,reject,ko:K01602    rbcS; ribulose-bisphosphate carboxylase small chain [EC:4.1.1.39]
+24,0.0016,0.611111111,K01624,9,reject,"ko:K01624    FBA, fbaA; fructose-bisphosphate aldolase, class II [EC:4.1.2.13]"
+25,0.0017,0.848484848,K02275,12,reject,"ko:K02275    coxB, ctaC; cytochrome c oxidase subunit II [EC:1.9.3.1]"
+26,0.0017,0.476190476,K00164,7,reject,"ko:K00164    OGDH, sucA; 2-oxoglutarate dehydrogenase E1 component [EC:1.2.4.2]"
+27,0.0017,0,K02014,5,reject,ko:K02014    TC.FEV.OM; iron complex outermembrane recepter protein
+28,0.0017,0,K05298,5,reject,ko:K05298    GAPA; glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating) [EC:1.2.1.13]
+29,0.0019,0,K09551,5,reject,ko:K09551    CLGN; calmegin
+30,0.0019,0,K10418,5,reject,ko:K10418    DYNLL; dynein light chain LC8-type
+31,0.0021,0,K08054,5,reject,ko:K08054    CANX; calnexin
+32,0.0022,0,K02867,5,reject,"ko:K02867    RP-L11, MRPL11, rplK; large subunit ribosomal protein L11"
+33,0.0023,0.836363636,K04078,11,reject,"ko:K04078    groES, HSPE1; chaperonin GroES"
+34,0.0025,0.476190476,K09564,7,reject,ko:K09564    PPIE; peptidyl-prolyl isomerase E (cyclophilin E) [EC:5.2.1.8]
+35,0.0026,0.333333333,K06118,6,reject,"ko:K06118    SQD1, sqdB; UDP-sulfoquinovose synthase [EC:3.13.1.1]"
+36,0.0029,0.755555556,K02355,10,reject,"ko:K02355    fusA, GFM, EFG; elongation factor G"
+37,0.0029,0.722222222,K02705,9,reject,ko:K02705    psbC; photosystem II CP43 chlorophyll apoprotein
+38,0.003,0.333333333,K00615,6,reject,"ko:K00615    E2.2.1.1, tktA, tktB; transketolase [EC:2.2.1.1]"
+39,0.0033,0.476190476,K06207,7,reject,"ko:K06207    typA, bipA; GTP-binding protein"
+40,0.0033,0.333333333,K04087,6,reject,ko:K04087    hflC; modulator of FtsH protease HflC
+41,0.0034,0.333333333,K05808,6,reject,ko:K05808    yhbH; putative sigma-54 modulation protein
+42,0.0036,0.333333333,K01601,6,reject,ko:K01601    rbcL; ribulose-bisphosphate carboxylase large chain [EC:4.1.1.39]
+43,0.005,0.571428571,K02639,7,reject,ko:K02639    petF; ferredoxin
+44,0.0052,1.021978022,K00240,14,reject,"ko:K00240    sdhB, frdB; succinate dehydrogenase / fumarate reductase, iron-sulfur subunit [EC:1.3.5.1 1.3.5.4]"
+45,0.0059,0.888888889,K02716,10,reject,ko:K02716    psbO; photosystem II oxygen-evolving enhancer protein 1
+46,0.0062,0.777777778,K00411,9,reject,"ko:K00411    UQCRFS1, RIP1, petA; ubiquinol-cytochrome c reductase iron-sulfur subunit [EC:7.1.1.8]"
+47,0.0063,0.571428571,K00335,7,reject,ko:K00335    nuoF; NADH-quinone oxidoreductase subunit F [EC:7.1.1.2]
+48,0.0065,0.571428571,K00962,7,reject,"ko:K00962    pnp, PNPT1; polyribonucleotide nucleotidyltransferase [EC:2.7.7.8]"
+49,0.0065,0.571428571,K07375,7,reject,ko:K07375    TUBB; tubulin beta
+50,0.0067,0.777777778,K02078,9,reject,ko:K02078    acpP; acyl carrier protein
+51,0.0071,0,K14637,4,reject,"ko:K14637    SLC15A2, PEPT2; solute carrier family 15 (oligopeptide transporter), member 2"
+52,0.0073,0.571428571,K08738,7,reject,ko:K08738    CYC; cytochrome c
+53,0.0074,0,K08917,4,reject,ko:K08917    LHCB6; light-harvesting complex II chlorophyll a/b binding protein 6
+54,0.008,0,K09565,4,reject,ko:K09565    PPIF; peptidyl-prolyl isomerase F (cyclophilin D) [EC:5.2.1.8]
+55,0.0081,0.533333333,K09458,6,reject,"ko:K09458    fabF, OXSM, CEM1; 3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179]"
+56,0.0084,0,K02902,4,reject,"ko:K02902    RP-L28, MRPL28, rpmB; large subunit ribosomal protein L28"
+57,0.0084,0,K09584,4,reject,"ko:K09584    PDIA6, TXNDC7; protein disulfide-isomerase A6 [EC:5.3.4.1]"
+58,0.0086,0,K12751,4,reject,ko:K12751    MYL6; myosin light chain 6
+59,0.0088,0.785714286,K02636,8,reject,ko:K02636    petC; cytochrome b6-f complex iron-sulfur subunit [EC:7.1.1.6]
+60,0.0088,0,K01419,4,reject,"ko:K01419    hslV, clpQ; ATP-dependent HslUV protease, peptidase subunit HslV [EC:3.4.25.2]"
+61,0.009,0.533333333,K08907,6,reject,ko:K08907    LHCA1; light-harvesting complex I chlorophyll a/b binding protein 1
+62,0.009,0,K00323,4,reject,ko:K00323    NNT; H+-translocating NAD(P) transhydrogenase [EC:1.6.1.2 7.1.1.1]
+63,0.0092,0.533333333,K04080,6,reject,ko:K04080    ibpA; molecular chaperone IbpA
+64,0.0094,0,K17609,4,reject,ko:K17609    NXN; nucleoredoxin [EC:1.8.1.8]
+65,0.0095,0.533333333,K08908,6,reject,ko:K08908    LHCA2; light-harvesting complex I chlorophyll a/b binding protein 2
+66,0.0108,0.955555556,K02276,10,reject,"ko:K02276    coxC, ctaE; cytochrome c oxidase subunit III [EC:1.9.3.1]"
+67,0.0117,0.821428571,K03782,8,reject,ko:K03782    katG; catalase-peroxidase [EC:1.11.1.21]
+68,0.0121,0.4,K09567,5,reject,"ko:K09567    PPIH, CYPH; peptidyl-prolyl isomerase H (cyclophilin H) [EC:5.2.1.8]"
+69,0.0127,0.4,K07944,5,reject,ko:K07944    ARL3; ADP-ribosylation factor-like protein 3
+70,0.0129,0.4,K02871,5,reject,"ko:K02871    RP-L13, MRPL13, rplM; large subunit ribosomal protein L13"
+71,0.0136,0.4,K02949,5,reject,"ko:K02949    RP-S11e, RPS11; small subunit ribosomal protein S11e"
+72,0.0146,0.857142857,K00413,8,reject,"ko:K00413    CYC1, CYT1, petC; ubiquinol-cytochrome c reductase cytochrome c1 subunit"
+73,0.0147,0.4,K03231,5,reject,ko:K03231    EEF1A; elongation factor 1-alpha
+74,0.0179,0.666666667,K02638,6,reject,ko:K02638    petE; plastocyanin
+75,0.0197,0.666666667,K00026,6,reject,ko:K00026    MDH2; malate dehydrogenase [EC:1.1.1.37]
+76,0.0211,0.666666667,K04088,6,reject,ko:K04088    hflK; modulator of FtsH protease HflK
+77,0.0216,1.164835165,K04077,14,reject,"ko:K04077    groEL, HSPD1; chaperonin GroEL"
+78,0.0225,0.928571429,K01845,8,reject,"ko:K01845    hemL; glutamate-1-semialdehyde 2,1-aminomutase [EC:5.4.3.8]"
+79,0.0233,0.964285714,K08913,8,reject,ko:K08913    LHCB2; light-harvesting complex II chlorophyll a/b binding protein 2
+80,0.0273,0.857142857,K00234,7,reject,"ko:K00234    SDHA, SDH1; succinate dehydrogenase (ubiquinone) flavoprotein subunit [EC:1.3.5.1]"
+81,0.0276,0.857142857,K00514,7,fail,"ko:K00514    ZDS, crtQ; zeta-carotene desaturase [EC:1.3.5.6]"
+82,0.0282,1,K00134,8,fail,"ko:K00134    GAPDH, gapA; glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]"
+83,0.0282,0.6,K03695,5,fail,ko:K03695    clpB; ATP-dependent Clp protease ATP-binding subunit ClpB
+84,0.0285,0.6,K02230,5,fail,ko:K02230    cobN; cobaltochelatase CobN [EC:6.6.1.2]
+85,0.0285,0.6,K03694,5,fail,ko:K03694    clpA; ATP-dependent Clp protease ATP-binding subunit ClpA
+86,0.0287,0.6,K02719,5,fail,ko:K02719    psbU; photosystem II PsbU protein
+87,0.0299,0.857142857,K03086,7,fail,ko:K03086    rpoD; RNA polymerase primary sigma factor
+88,0.0299,0.6,K01783,5,fail,"ko:K01783    rpe, RPE; ribulose-phosphate 3-epimerase [EC:5.1.3.1]"
+89,0.0302,0.6,K02950,5,fail,"ko:K02950    RP-S12, MRPS12, rpsL; small subunit ribosomal protein S12"
+90,0.0303,0.6,K03388,5,fail,ko:K03388    hdrA2; heterodisulfide reductase subunit A2 [EC:1.8.7.3 1.8.98.4 1.8.98.5 1.8.98.6]
+91,0.0303,0.6,K09566,5,fail,ko:K09566    PPIG; peptidyl-prolyl isomerase G (cyclophilin G) [EC:5.2.1.8]
+92,0.0304,0.6,K00235,5,fail,"ko:K00235    SDHB, SDH2; succinate dehydrogenase (ubiquinone) iron-sulfur subunit [EC:1.3.5.1]"
+93,0.0304,0.6,K03147,5,fail,ko:K03147    thiC; phosphomethylpyrimidine synthase [EC:4.1.99.17]
+94,0.0306,0.6,K05864,5,fail,"ko:K05864    PPID, CYPD; peptidyl-prolyl isomerase D [EC:5.2.1.8]"
+95,0.0311,0.6,K02945,5,fail,"ko:K02945    RP-S1, rpsA; small subunit ribosomal protein S1"
+96,0.0313,0.6,K15987,5,fail,ko:K15987    hppA; K(+)-stimulated pyrophosphate-energized sodium pump
+97,0.0316,0.6,K06890,5,fail,ko:K06890    K06890; uncharacterized protein
+98,0.0317,1.088888889,K03686,10,fail,ko:K03686    dnaJ; molecular chaperone DnaJ
+99,0.0318,0.6,K11252,5,fail,ko:K11252    H2B; histone H2B
+100,0.0342,0.6,K02965,5,fail,"ko:K02965    RP-S19, rpsS; small subunit ribosomal protein S19"
+101,0.035,1.111111111,K03403,10,fail,"ko:K03403    chlH, bchH; magnesium chelatase subunit H [EC:6.6.1.1]"
+102,0.0353,1.035714286,K02641,8,fail,ko:K02641    petH; ferredoxin--NADP+ reductase [EC:1.18.1.2]
+103,0.0355,0.952380952,K00412,7,fail,"ko:K00412    CYTB, petB; ubiquinol-cytochrome c reductase cytochrome b subunit"
+104,0.0356,0.952380952,K01915,7,fail,"ko:K01915    glnA, GLUL; glutamine synthetase [EC:6.3.1.2]"
+105,0.0402,0.866666667,K00244,6,fail,ko:K00244    frdA; fumarate reductase flavoprotein subunit [EC:1.3.5.4]
+106,0.0402,0.866666667,K02986,6,fail,"ko:K02986    RP-S4, rpsD; small subunit ribosomal protein S4"
+107,0.0415,1.163636364,K03522,11,fail,"ko:K03522    fixB, etfA; electron transfer flavoprotein alpha subunit"
+108,0.0416,0.866666667,K00123,6,fail,"ko:K00123    fdoG, fdhF, fdwA; formate dehydrogenase major subunit [EC:1.17.1.9]"
+109,0.0417,0.866666667,K00336,6,fail,ko:K00336    nuoG; NADH-quinone oxidoreductase subunit G [EC:7.1.1.2]
+110,0.0422,0.866666667,--,6,fail,No annotation
+111,0.0431,0.866666667,K02293,6,fail,"ko:K02293    PDS, crtP; 15-cis-phytoene desaturase [EC:1.3.5.5]"
+112,0.044,0.5,K00821,4,fail,ko:K00821    argD; acetylornithine/N-succinyldiaminopimelate aminotransferase [EC:2.6.1.11 2.6.1.17]
+113,0.0462,0.5,K02946,4,fail,"ko:K02946    RP-S10, MRPS10, rpsJ; small subunit ribosomal protein S10"
+114,0.0464,1.111111111,K01338,9,fail,ko:K01338    lon; ATP-dependent Lon protease [EC:3.4.21.53]
+115,0.0465,0.5,K08912,4,fail,ko:K08912    LHCB1; light-harvesting complex II chlorophyll a/b binding protein 1
+116,0.0466,1.111111111,K08911,9,fail,ko:K08911    LHCA5; light-harvesting complex I chlorophyll a/b binding protein 5
+117,0.0483,0.5,K08914,4,fail,ko:K08914    LHCB3; light-harvesting complex II chlorophyll a/b binding protein 3
+118,0.0485,0.5,K09563,4,fail,"ko:K09563    PPIC, CYPC; peptidyl-prolyl isomerase C (cyclophilin C) [EC:5.2.1.8]"
+119,0.0491,0.5,K00033,4,fail,"ko:K00033    PGD, gnd, gntZ; 6-phosphogluconate dehydrogenase [EC:1.1.1.44 1.1.1.343]"
+120,0.0494,0.5,K01647,4,fail,"ko:K01647    CS, gltA; citrate synthase [EC:2.3.3.1]"
+121,0.0498,0.5,K08692,4,fail,ko:K08692    mtkB; malate-CoA ligase subunit alpha [EC:6.2.1.9]
+122,0.0499,0.5,K02996,4,fail,"ko:K02996    RP-S9, MRPS9, rpsI; small subunit ribosomal protein S9"
+123,0.0501,0.5,K02939,4,fail,"ko:K02939    RP-L9, MRPL9, rplI; large subunit ribosomal protein L9"
+124,0.0509,0.5,K12402,4,fail,ko:K12402    AP4M1; AP-4 complex subunit mu-1
+125,0.0512,0.5,K02357,4,fail,"ko:K02357    tsf, TSFM; elongation factor Ts"
+126,0.052,0.5,K00647,4,fail,ko:K00647    fabB; 3-oxoacyl-[acyl-carrier-protein] synthase I [EC:2.3.1.41]
+127,0.0523,0.5,K05863,4,fail,"ko:K05863    SLC25A4S, ANT; solute carrier family 25 (mitochondrial adenine nucleotide translocator), member 4/5/6/31"
+128,0.0527,0.5,K13993,4,fail,ko:K13993    HSP20; HSP20 family protein
+129,0.0528,0.5,K02133,4,fail,"ko:K02133    ATPeF1B, ATP5B, ATP2; F-type H+-transporting ATPase subunit beta [EC:7.1.2.2]"
+130,0.0532,0.5,K13628,4,fail,ko:K13628    iscA; iron-sulfur cluster assembly protein
+131,0.0533,0.5,K01903,4,fail,ko:K01903    sucC; succinyl-CoA synthetase beta subunit [EC:6.2.1.5]
+132,0.0536,0.5,K00255,4,fail,ko:K00255    ACADL; long-chain-acyl-CoA dehydrogenase [EC:1.3.8.8]
+133,0.0538,0.5,K02879,4,fail,"ko:K02879    RP-L17, MRPL17, rplQ; large subunit ribosomal protein L17"
+134,0.0542,0.5,K02863,4,fail,"ko:K02863    RP-L1, MRPL1, rplA; large subunit ribosomal protein L1"
+135,0.0548,0.933333333,K08916,6,fail,ko:K08916    LHCB5; light-harvesting complex II chlorophyll a/b binding protein 5
+136,0.0554,0.933333333,K02926,6,fail,"ko:K02926    RP-L4, MRPL4, rplD; large subunit ribosomal protein L4"
+137,0.0556,0.8,K02881,5,fail,"ko:K02881    RP-L18, MRPL18, rplR; large subunit ribosomal protein L18"
+138,0.0557,0.8,K10705,5,fail,"ko:K10705    GAPDHS; glyceraldehyde-3-phosphate dehydrogenase, spermatogenic [EC:1.2.1.12]"
+139,0.0558,0.8,K01100,5,fail,ko:K01100    E3.1.3.37; sedoheptulose-bisphosphatase [EC:3.1.3.37]
+140,0.0568,0.8,K03568,5,fail,ko:K03568    tldD; TldD protein
+141,0.0578,0.8,K02916,5,fail,"ko:K02916    RP-L35, MRPL35, rpmI; large subunit ribosomal protein L35"
+142,0.0582,0.8,K00253,5,fail,"ko:K00253    IVD, ivd; isovaleryl-CoA dehydrogenase [EC:1.3.8.4]"
+143,0.0642,1.047619048,K00278,7,fail,ko:K00278    nadB; L-aspartate oxidase [EC:1.4.3.16]
+144,0.0677,1.047619048,K00161,7,fail,"ko:K00161    PDHA, pdhA; pyruvate dehydrogenase E1 component alpha subunit [EC:1.2.4.1]"
+145,0.0677,1.047619048,K00600,7,fail,"ko:K00600    glyA, SHMT; glycine hydroxymethyltransferase [EC:2.1.2.1]"
+146,0.0711,1.047619048,K00311,7,fail,ko:K00311    ETFDH; electron-transferring-flavoprotein dehydrogenase [EC:1.5.5.1]
+147,0.0723,0.666666667,K08956,4,fail,ko:K08956    AFG3; AFG3 family protein [EC:3.4.24.-]
+148,0.0727,1,K02952,6,fail,"ko:K02952    RP-S13, rpsM; small subunit ribosomal protein S13"
+149,0.0765,0.666666667,K08902,4,fail,ko:K08902    psb27; photosystem II Psb27 protein
+150,0.0771,0.666666667,K00643,4,fail,"ko:K00643    E2.3.1.37, ALAS; 5-aminolevulinate synthase [EC:2.3.1.37]"
+151,0.0773,0.666666667,K14172,4,fail,ko:K14172    LHCB7; light-harvesting complex II chlorophyll a/b binding protein 7
+152,0.0781,0.666666667,K00248,4,fail,"ko:K00248    ACADS, bcd; butyryl-CoA dehydrogenase [EC:1.3.8.1]"
+153,0.0805,0.666666667,K02959,4,fail,"ko:K02959    RP-S16, MRPS16, rpsP; small subunit ribosomal protein S16"
+154,0.0829,1.066666667,K04771,6,fail,"ko:K04771    degP, htrA; serine protease Do [EC:3.4.21.107]"
+155,0.0863,1.066666667,K00150,6,fail,ko:K00150    gap2; glyceraldehyde-3-phosphate dehydrogenase (NAD(P)) [EC:1.2.1.59]
+156,0.099,1.133333333,K02635,6,fail,ko:K02635    petB; cytochrome b6
+157,0.0999,1.142857143,K02888,7,fail,"ko:K02888    RP-L21, MRPL21, rplU; large subunit ribosomal protein L21"
+158,0.1043,1.214285714,K00605,8,fail,"ko:K00605    gcvT, AMT; aminomethyltransferase [EC:2.1.2.10]"
+159,0.1053,1.340659341,K02358,14,fail,"ko:K02358    tuf, TUFM; elongation factor Tu"
+160,0.1188,1,K02878,5,fail,"ko:K02878    RP-L16, MRPL16, rplP; large subunit ribosomal protein L16"
+161,0.1228,1,K03639,5,fail,"ko:K03639    moaA, CNX2; GTP 3',8-cyclase [EC:4.1.99.22]"
+162,0.1241,1,K01495,5,fail,"ko:K01495    GCH1, folE; GTP cyclohydrolase IA [EC:3.5.4.16]"
+163,0.1248,1,K01937,5,fail,"ko:K01937    pyrG, CTPS; CTP synthase [EC:6.3.4.2]"
+164,0.1251,1,K00208,5,fail,ko:K00208    fabI; enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10]
+165,0.1258,1,K01807,5,fail,ko:K01807    rpiA; ribose 5-phosphate isomerase A [EC:5.3.1.6]
+166,0.1277,1,K03087,5,fail,ko:K03087    rpoS; RNA polymerase nonessential primary-like sigma factor
+167,0.1285,1,K01803,5,fail,"ko:K01803    TPI, tpiA; triosephosphate isomerase (TIM) [EC:5.3.1.1]"
+168,0.1288,1,K02637,5,fail,ko:K02637    petD; cytochrome b6-f complex subunit 4
+169,0.1292,1,K08300,5,fail,ko:K08300    rne; ribonuclease E [EC:3.1.26.12]
+170,0.1293,1,K02689,5,fail,ko:K02689    psaA; photosystem I P700 chlorophyll a apoprotein A1
+171,0.1345,1.25,K03687,8,fail,ko:K03687    GRPE; molecular chaperone GrpE
+172,0.1635,1,K11809,4,fail,"ko:K11809    PGM2L1; glucose-1,6-bisphosphate synthase [EC:2.7.1.106]"
+173,0.1671,1,K16345,4,fail,ko:K16345    xanP; xanthine permease XanP
+174,0.1677,1.2,K02892,6,fail,"ko:K02892    RP-L23, MRPL23, rplW; large subunit ribosomal protein L23"
+175,0.1682,1.2,K02111,6,fail,"ko:K02111    ATPF1A, atpA; F-type H+/Na+-transporting ATPase subunit alpha [EC:7.1.2.2 7.2.2.1]"
+176,0.169,1,K00099,4,fail,ko:K00099    dxr; 1-deoxy-D-xylulose-5-phosphate reductoisomerase [EC:1.1.1.267]
+177,0.1693,1.2,K08910,6,fail,ko:K08910    LHCA4; light-harvesting complex I chlorophyll a/b binding protein 4
+178,0.1714,1,K00274,4,fail,"ko:K00274    MAO, aofH; monoamine oxidase [EC:1.4.3.4]"
+179,0.1715,1,K01662,4,fail,ko:K01662    dxs; 1-deoxy-D-xylulose-5-phosphate synthase [EC:2.2.1.7]
+180,0.1715,1,K15427,4,fail,"ko:K15427    SIT4, PPH1; serine/threonine-protein phosphatase PP1-1 [EC:3.1.3.16]"
+181,0.1718,1,K03671,4,fail,ko:K03671    trxA; thioredoxin 1
+182,0.172,1,K03701,4,fail,ko:K03701    uvrA; excinuclease ABC subunit A
+183,0.1726,1,K02694,4,fail,ko:K02694    psaF; photosystem I subunit III
+184,0.1749,1.321428571,K04079,8,fail,"ko:K04079    HSP90A, htpG; molecular chaperone HtpG"
+185,0.1756,1,K09014,4,fail,ko:K09014    sufB; Fe-S cluster assembly protein SufB
+186,0.1757,1.355555556,K03320,10,fail,"ko:K03320    amt, AMT, MEP; ammonium transporter, Amt family"
+187,0.1788,1,K00873,4,fail,"ko:K00873    PK, pyk; pyruvate kinase [EC:2.7.1.40]"
+188,0.1793,1,K00315,4,fail,ko:K00315    DMGDH; dimethylglycine dehydrogenase [EC:1.5.8.4]
+189,0.1976,1.266666667,K03768,6,fail,"ko:K03768    PPIB, ppiB; peptidyl-prolyl cis-trans isomerase B (cyclophilin B) [EC:5.2.1.8]"
+190,0.2055,1.2,K03545,5,fail,ko:K03545    tig; trigger factor
+191,0.2108,1.2,K00162,5,fail,"ko:K00162    PDHB, pdhB; pyruvate dehydrogenase E1 component beta subunit [EC:1.2.4.1]"
+192,0.2119,1.2,K01689,5,fail,"ko:K01689    ENO, eno; enolase [EC:4.2.1.11]"
+193,0.2126,1.2,K03526,5,fail,"ko:K03526    gcpE, ispG; (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase [EC:1.17.7.1 1.17.7.3]"
+194,0.2151,1.2,K02704,5,fail,ko:K02704    psbB; photosystem II CP47 chlorophyll apoprotein
+195,0.2151,1.2,K02948,5,fail,"ko:K02948    RP-S11, MRPS11, rpsK; small subunit ribosomal protein S11"
+196,0.2179,1.2,K00507,5,fail,"ko:K00507    SCD, desC; stearoyl-CoA desaturase (Delta-9 desaturase) [EC:1.14.19.1]"
+197,0.2454,1.333333333,K00228,7,fail,"ko:K00228    CPOX, hemF; coproporphyrinogen III oxidase [EC:1.3.3.3]"
+198,0.2456,1.333333333,K03089,7,fail,ko:K03089    rpoH; RNA polymerase sigma-32 factor
+199,0.248,1.333333333,K00249,7,fail,"ko:K00249    ACADM, acd; acyl-CoA dehydrogenase [EC:1.3.8.7]"
+200,0.263,1.166666667,K05579,4,fail,ko:K05579    ndhH; NAD(P)H-quinone oxidoreductase subunit H [EC:7.1.1.2]
+201,0.264,1.166666667,K15283,4,fail,"ko:K15283    SLC35E1; solute carrier family 35, member E1"
+202,0.2672,1.166666667,K04488,4,fail,"ko:K04488    iscU, nifU; nitrogen fixation protein NifU and related proteins"
+203,0.2674,1.166666667,K00330,4,fail,ko:K00330    nuoA; NADH-quinone oxidoreductase subunit A [EC:7.1.1.2]
+204,0.269,1.166666667,K12574,4,fail,ko:K12574    rnj; ribonuclease J [EC:3.1.-.-]
+205,0.2699,1.166666667,K00540,4,fail,ko:K00540    fqr; F420H(2)-dependent quinone reductase [EC:1.1.98.-]
+206,0.2725,1.166666667,K08915,4,fail,ko:K08915    LHCB4; light-harvesting complex II chlorophyll a/b binding protein 4
+207,0.2726,1.166666667,K01507,4,fail,ko:K01507    ppa; inorganic pyrophosphatase [EC:3.6.1.1]
+208,0.2734,1.166666667,K01953,4,fail,"ko:K01953    asnB, ASNS; asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]"
+209,0.275,1.166666667,K10579,4,fail,"ko:K10579    UBE2M, UBC12; ubiquitin-conjugating enzyme E2 M"
+210,0.2759,1.166666667,K00876,4,fail,"ko:K00876    udk, UCK; uridine kinase [EC:2.7.1.48]"
+211,0.2786,1.392857143,K10960,8,fail,"ko:K10960    chlP, bchP; geranylgeranyl diphosphate/geranylgeranyl-bacteriochlorophyllide a reductase [EC:1.3.1.83 1.3.1.111]"
+212,0.2793,1.166666667,K03770,4,fail,ko:K03770    ppiD; peptidyl-prolyl cis-trans isomerase D [EC:5.2.1.8]
+213,0.281,1.166666667,K01835,4,fail,ko:K01835    pgm; phosphoglucomutase [EC:5.4.2.2]
+214,0.3016,1.333333333,K00616,4,fail,"ko:K00616    E2.2.1.2, talA, talB; transaldolase [EC:2.2.1.2]"
+215,0.3129,1.4,K00257,6,fail,"ko:K00257    mbtN, fadE14; acyl-ACP dehydrogenase [EC:1.3.99.-]"
+216,0.3189,1.4,K03040,6,fail,ko:K03040    rpoA; DNA-directed RNA polymerase subunit alpha [EC:2.7.7.6]
+217,0.3199,1.4,K04487,6,fail,"ko:K04487    iscS, NFS1; cysteine desulfurase [EC:2.8.1.7]"
+218,0.3226,1.4,K02035,6,fail,ko:K02035    ABC.PE.S; peptide/nickel transport system substrate-binding protein
+219,0.3456,1.444444444,K02886,9,fail,"ko:K02886    RP-L2, MRPL2, rplB; large subunit ribosomal protein L2"
+220,0.3787,1.4,K02982,5,fail,"ko:K02982    RP-S3, rpsC; small subunit ribosomal protein S3"
+221,0.3817,1.4,K02634,5,fail,ko:K02634    petA; apocytochrome f
+222,0.3829,1.4,K01251,5,fail,"ko:K01251    E3.3.1.1, ahcY; adenosylhomocysteinase [EC:3.3.1.1]"
+223,0.3848,1.4,K01945,5,fail,ko:K01945    purD; phosphoribosylamine---glycine ligase [EC:6.3.4.13]
+224,0.3849,1.4,K02056,5,fail,ko:K02056    ABC.SS.A; simple sugar transport system ATP-binding protein [EC:7.5.2.-]
+225,0.385,1.4,K01872,5,fail,"ko:K01872    AARS, alaS; alanyl-tRNA synthetase [EC:6.1.1.7]"
+226,0.3875,1.4,K00526,5,fail,"ko:K00526    E1.17.4.1B, nrdB, nrdF; ribonucleoside-diphosphate reductase beta chain [EC:1.17.4.1]"
+227,0.3888,1.4,K09487,5,fail,"ko:K09487    HSP90B, TRA1; heat shock protein 90kDa beta"
+228,0.3891,1.4,K02108,5,fail,"ko:K02108    ATPF0A, atpB; F-type H+-transporting ATPase subunit a"
+229,0.3899,1.4,K03088,5,fail,"ko:K03088    rpoE; RNA polymerase sigma-70 factor, ECF subfamily"
+230,0.3911,1.4,K01698,5,fail,"ko:K01698    hemB, ALAD; porphobilinogen synthase [EC:4.2.1.24]"
+231,0.3931,1.4,K02976,5,fail,"ko:K02976    RP-S26e, RPS26; small subunit ribosomal protein S26e"
+232,0.3937,1.4,K04564,5,fail,"ko:K04564    SOD2; superoxide dismutase, Fe-Mn family [EC:1.15.1.1]"
+233,0.3946,1.4,K00826,5,fail,"ko:K00826    E2.6.1.42, ilvE; branched-chain amino acid aminotransferase [EC:2.6.1.42]"
+234,0.3953,1.4,K02904,5,fail,"ko:K02904    RP-L29, rpmC; large subunit ribosomal protein L29"
+235,0.3975,1.4,K03702,5,fail,ko:K03702    uvrB; excinuclease ABC subunit B
+236,0.4012,1.4,K03386,5,fail,"ko:K03386    PRDX2_4, ahpC; peroxiredoxin (alkyl hydroperoxide reductase subunit C) [EC:1.11.1.15]"
+237,0.431,1.5,K11731,4,fail,ko:K11731    atuD; citronellyl-CoA dehydrogenase [EC:1.3.99.-]
+238,0.4379,1.5,K02994,4,fail,"ko:K02994    RP-S8, rpsH; small subunit ribosomal protein S8"
+239,0.4389,1.5,K01782,4,fail,ko:K01782    fadJ; 3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase [EC:1.1.1.35 4.2.1.17 5.1.2.3]
+240,0.4393,1.5,K06689,4,fail,"ko:K06689    UBE2D, UBC4, UBC5; ubiquitin-conjugating enzyme E2 D [EC:2.3.2.23]"
+241,0.4406,1.5,K02931,4,fail,"ko:K02931    RP-L5, MRPL5, rplE; large subunit ribosomal protein L5"
+242,0.441,1.5,K02519,4,fail,"ko:K02519    infB, MTIF2; translation initiation factor IF-2"
+243,0.4412,1.5,K00074,4,fail,"ko:K00074    paaH, hbd, fadB, mmgB; 3-hydroxybutyryl-CoA dehydrogenase [EC:1.1.1.157]"
+244,0.4415,1.5,K01825,4,fail,ko:K01825    fadB; 3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase / enoyl-CoA isomerase [EC:1.1.1.35 4.2.1.17 5.1.2.3 5.3.3.8]
+245,0.4417,1.5,K02961,4,fail,"ko:K02961    RP-S17, MRPS17, rpsQ; small subunit ribosomal protein S17"
+246,0.4421,1.5,K02874,4,fail,"ko:K02874    RP-L14, MRPL14, rplN; large subunit ribosomal protein L14"
+247,0.4421,1.5,K08909,4,fail,ko:K08909    LHCA3; light-harvesting complex I chlorophyll a/b binding protein 3
+248,0.4435,1.5,K11717,4,fail,ko:K11717    sufS; cysteine desulfurase / selenocysteine lyase [EC:2.8.1.7 4.4.1.16]
+249,0.4436,1.466666667,K00284,6,fail,"ko:K00284    GLU, gltS; glutamate synthase (ferredoxin) [EC:1.4.7.1]"
+250,0.4437,1.5,K02890,4,fail,"ko:K02890    RP-L22, MRPL22, rplV; large subunit ribosomal protein L22"
+251,0.4437,1.5,K02933,4,fail,"ko:K02933    RP-L6, MRPL6, rplF; large subunit ribosomal protein L6"
+252,0.4439,1.5,K15779,4,fail,ko:K15779    PGM2; phosphoglucomutase / phosphopentomutase [EC:5.4.2.2 5.4.2.7]
+253,0.4458,1.5,K01749,4,fail,"ko:K01749    hemC, HMBS; hydroxymethylbilane synthase [EC:2.5.1.61]"
+254,0.4461,1.5,K01900,4,fail,ko:K01900    LSC2; succinyl-CoA synthetase beta subunit [EC:6.2.1.4 6.2.1.5]
+255,0.4469,1.5,K00324,4,fail,ko:K00324    pntA; H+-translocating NAD(P) transhydrogenase subunit alpha [EC:1.6.1.2 7.1.1.1]
+256,0.4514,1.5,K04039,4,fail,ko:K04039    chlB; light-independent protochlorophyllide reductase subunit B [EC:1.3.7.7]
+257,0.5707,1.535714286,K00266,8,fail,ko:K00266    gltD; glutamate synthase (NADPH) small chain [EC:1.4.1.13]
+258,0.5941,1.6,K02109,6,fail,"ko:K02109    ATPF0B, atpF; F-type H+-transporting ATPase subunit b"
+259,0.5967,1.6,K00281,6,fail,"ko:K00281    GLDC, gcvP; glycine dehydrogenase [EC:1.4.4.2]"
+260,0.5969,1.6,K02992,6,fail,"ko:K02992    RP-S7, MRPS7, rpsG; small subunit ribosomal protein S7"
+261,0.7013,1.666666667,K03704,4,fail,ko:K03704    cspA; cold shock protein
+262,0.7028,1.666666667,K03404,4,fail,"ko:K03404    chlD, bchD; magnesium chelatase subunit D [EC:6.6.1.1]"
+263,0.7035,1.666666667,K03070,4,fail,ko:K03070    secA; preprotein translocase subunit SecA [EC:7.4.2.8]
+264,0.7037,1.666666667,K02110,4,fail,"ko:K02110    ATPF0C, atpE; F-type H+-transporting ATPase subunit c"
+265,0.705,1.666666667,K01939,4,fail,"ko:K01939    purA, ADSS; adenylosuccinate synthase [EC:6.3.4.4]"
+266,0.706,1.6,K01955,5,fail,"ko:K01955    carB, CPA2; carbamoyl-phosphate synthase large subunit [EC:6.3.5.5]"
+267,0.7066,1.666666667,K06204,4,fail,ko:K06204    dksA; DnaK suppressor protein
+268,0.7075,1.666666667,K00053,4,fail,ko:K00053    ilvC; ketol-acid reductoisomerase [EC:1.1.1.86]
+269,0.7081,1.666666667,K00390,4,fail,ko:K00390    cysH; phosphoadenosine phosphosulfate reductase [EC:1.8.4.8 1.8.4.10]
+270,0.71,1.666666667,K02313,4,fail,ko:K02313    dnaA; chromosomal replication initiator protein
+271,0.7111,1.666666667,K01875,4,fail,"ko:K01875    SARS, serS; seryl-tRNA synthetase [EC:6.1.1.11]"
+272,0.7124,1.6,K02988,5,fail,"ko:K02988    RP-S5, MRPS5, rpsE; small subunit ribosomal protein S5"
+273,0.715,1.6,K02887,5,fail,"ko:K02887    RP-L20, MRPL20, rplT; large subunit ribosomal protein L20"
+274,0.7155,1.666666667,K13303,4,fail,ko:K13303    SGK2; serum/glucocorticoid-regulated kinase 2 [EC:2.7.11.1]
+275,0.7184,1.6,K01883,5,fail,"ko:K01883    CARS, cysS; cysteinyl-tRNA synthetase [EC:6.1.1.16]"
+276,0.804,1.619047619,K00382,7,fail,"ko:K00382    DLD, lpd, pdhD; dihydrolipoamide dehydrogenase [EC:1.8.1.4]"
+277,0.8082,1.666666667,K00384,6,fail,"ko:K00384    trxB, TRR; thioredoxin reductase (NADPH) [EC:1.8.1.9]"
+278,0.8086,1.619047619,K03797,7,fail,"ko:K03797    E3.4.21.102, prc, ctpA; carboxyl-terminal processing protease [EC:3.4.21.102]"
+279,0.8091,1.619047619,K00265,7,fail,ko:K00265    gltB; glutamate synthase (NADPH) large chain [EC:1.4.1.13]
+280,0.8106,1.666666667,K02112,6,fail,"ko:K02112    ATPF1B, atpD; F-type H+/Na+-transporting ATPase subunit beta [EC:7.1.2.2 7.2.2.1]"
+281,0.9197,1.833333333,K07516,4,fail,ko:K07516    fadN; 3-hydroxyacyl-CoA dehydrogenase [EC:1.1.1.35]
+282,0.9248,1.833333333,K00432,4,fail,"ko:K00432    gpx, btuE, bsaA; glutathione peroxidase [EC:1.11.1.9]"
+283,0.9263,1.833333333,K07304,4,fail,ko:K07304    msrA; peptide-methionine (S)-S-oxide reductase [EC:1.8.4.11]
+284,0.9265,1.833333333,K02412,4,fail,ko:K02412    fliI; flagellum-specific ATP synthase [EC:7.4.2.8]
+285,0.9281,1.833333333,K04752,4,fail,ko:K04752    glnK; nitrogen regulatory protein P-II 2
+286,0.9285,1.833333333,K00259,4,fail,ko:K00259    ald; alanine dehydrogenase [EC:1.4.1.1]
+287,0.929,1.833333333,K03530,4,fail,ko:K03530    hupB; DNA-binding protein HU-beta
+288,0.9295,1.833333333,K01623,4,fail,"ko:K01623    ALDO; fructose-bisphosphate aldolase, class I [EC:4.1.2.13]"
+289,1,1.8,K00380,5,fail,ko:K00380    cysJ; sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]
+290,1,1.8,K01802,5,fail,ko:K01802    E5.2.1.8; peptidylprolyl isomerase [EC:5.2.1.8]
+291,1,1.8,K02906,5,fail,"ko:K02906    RP-L3, MRPL3, rplC; large subunit ribosomal protein L3"
+292,1,1.8,K09013,5,fail,ko:K09013    sufC; Fe-S cluster assembly ATP-binding protein
+293,1,2,K00297,4,fail,"ko:K00297    metF, MTHFR; methylenetetrahydrofolate reductase (NADPH) [EC:1.5.1.20]"
+294,1,2,K03553,4,fail,ko:K03553    recA; recombination protein RecA
+295,1,2,K09510,4,fail,ko:K09510    DNAJB4; DnaJ homolog subfamily B member 4
+296,1,2,K10439,4,fail,ko:K10439    rbsB; ribose transport system substrate-binding protein
